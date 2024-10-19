@@ -20,6 +20,9 @@ public class AppTest
         //this is comment
         //another one
         Object ob1 = new Object();
+
         System.out.println(ob1.toString());
+
+        System.out.println(ob1.getClass());
     }
 }
