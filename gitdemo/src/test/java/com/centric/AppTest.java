@@ -19,5 +19,7 @@ public class AppTest
         System.out.println("ankit");
         //this is comment
         //another one
+        Object ob1 = new Object();
+        System.out.println(ob1.getClass());
     }
 }
