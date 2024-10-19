@@ -7,7 +7,7 @@ import org.junit.Test;
 /**
  * Unit test for simple App.
  */
-public class AppTest
+public class AppTest 
 {
     /**
      * Rigorous Test :-)
@@ -16,6 +16,6 @@ public class AppTest
     public void shouldAnswerWithTrue()
     {
         assertTrue( true );
-        System.out.println("ankitt");
+        System.out.println("ankit");
     }
 }
